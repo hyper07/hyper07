@@ -1,21 +1,21 @@
 # Hi there 👋 I'm **Kibaek**.
 
-🌍 Software engineer | ML & AI enthusiast | Full-stack developer
+🌍 Senior Full-Stack Software engineer | ML & AI enthusiast
 
 Welcome to my GitHub! I build tools, experiments, and frameworks in machine learning, generative AI, and modern backend systems. I enjoy learning in public and sharing open-source projects that help others build and explore.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔭 I’m currently working on **Generative AI & ML projects**, including a full-stack *GenAI Playground* with PyTorch, FastAPI, and Docker.
-- 🧠 I focus on **designing scalable, low-cost LLM system architectures**, emphasizing efficient inference, modular pipelines, and production-ready deployment.
-- 💡 I enjoy building **end-to-end machine learning workflows** — from data preprocessing to model training, API design, evaluation, and deployment.
-- 💬 Ask me about Python, ML/AI systems, LLM infrastructure, backend APIs, and project architecture.
+- I’m currently working on **Generative AI & ML projects**, including a full-stack *GenAI Playground* with PyTorch, FastAPI, and Docker.
+- I focus on **designing scalable, low-cost LLM system architectures**, emphasizing efficient inference, modular pipelines, and production-ready deployment.
+- I enjoy building **end-to-end machine learning workflows** — from data preprocessing to model training, API design, evaluation, and deployment.
+- Ask me about Python, ML/AI systems, LLM infrastructure, backend APIs, and project architecture.
 
 ---
 
-## 📦 Featured Projects
+## Featured Projects
 
 Here are some of my key open-source repositories:
 
