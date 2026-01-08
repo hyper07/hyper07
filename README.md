@@ -22,6 +22,7 @@ Here are some of my key open-source repositories:
 ### 🌐 Full-stack & AI
 - **gen-ai** – A full-stack Generative AI Playground with modern deep-learning models, a FastAPI backend, Dockerized setup, and Jupyter support. *(Explore and experiment with LLMs and vision models)*
 - **Deep-Learning-LLM-Wounded-Treatment** – A practical deep learning project combining CNNs and LLM workflows for domain-specific medical applications.
+- **AML Detection Platform (NDA)** – Led system architecture and model pipeline design for an end-to-end AML risk detection and analytics platform.
 
 ---
 
