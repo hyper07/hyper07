@@ -1,17 +1,17 @@
-# Hi there 👋 I'm **hyper07**
+# Hi there 👋 I'm **Kibaek**.
 
 🌍 Software engineer | ML & AI enthusiast | Full-stack developer
 
-Welcome to my GitHub! I build tools, experiments, and frameworks in machine learning, generative AI, and modern backend systems. I love learning in public and sharing open-source projects that help others build and explore.
+Welcome to my GitHub! I build tools, experiments, and frameworks in machine learning, generative AI, and modern backend systems. I enjoy learning in public and sharing open-source projects that help others build and explore.
 
 ---
 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **Generative AI & ML projects**, including a full-stack *GenAI Playground* with PyTorch, FastAPI, and Docker.
-- 💡 I enjoy building **end-to-end machine learning workflows** — from data preprocessing to model training, API design, and deployment.
-- 💬 Ask me about Python, ML/AI models, backend APIs, and project architecture.
-- 📫 Connect with me on GitHub and Twitter, or drop me an email!
+- 🧠 I focus on **designing scalable, low-cost LLM system architectures**, emphasizing efficient inference, modular pipelines, and production-ready deployment.
+- 💡 I enjoy building **end-to-end machine learning workflows** — from data preprocessing to model training, API design, evaluation, and deployment.
+- 💬 Ask me about Python, ML/AI systems, LLM infrastructure, backend APIs, and project architecture.
 
 ---
 
@@ -20,29 +20,26 @@ Welcome to my GitHub! I build tools, experiments, and frameworks in machine lear
 Here are some of my key open-source repositories:
 
 ### 🌐 Full-stack & AI
-- **gen-ai** – A full-stack Generative AI Playground with modern deep-learning models, FastAPI backend, Dockerized setup, and Jupyter support. *(Explore and experiment with LLMs and vision models)* :contentReference[oaicite:2]{index=2}
-- **Deep-Learning-LLM-Wounded-Treatment** – Practical deep learning project combining LLM workflows with domain-specific applications. :contentReference[oaicite:3]{index=3}
-
-*(Add more here — list your repos with short descriptions!)*
+- **gen-ai** – A full-stack Generative AI Playground with modern deep-learning models, a FastAPI backend, Dockerized setup, and Jupyter support. *(Explore and experiment with LLMs and vision models)*
+- **Deep-Learning-LLM-Wounded-Treatment** – A practical deep learning project combining CNNs and LLM workflows for domain-specific medical applications.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript/TypeScript, SQL  
-**Frameworks:** PyTorch, FastAPI, Flask, React  
+**Languages:** Python, JavaScript/TypeScript, PHP, SQL  
+**Frameworks:** PyTorch, FastAPI, Flask, React, Symfony  
 **Tools & Platforms:** Docker, Jupyter, GitHub Actions, REST APIs  
-**AI & ML:** Transformers, CNNs, GANs, Diffusion Models
+**AI & ML:** Transformers, CNNs, GANs, Diffusion Models, XGBoost, HBOS, Isolation Forest, ECOD
 
 ---
 
 ## 🌱 What I’m Learning
 
 - Large-scale LLM training & fine-tuning  
-- Advanced generative models  
-- Production ML deployment best practices
+- Cost-efficient LLM inference and system optimization  
+- Production-grade ML and AI deployment best practices
 
----
 
 
 <h3 align="left">Languages and Tools:</h3>
