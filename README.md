@@ -23,7 +23,10 @@ Here are some of my key open-source repositories:
 - **gen-ai** – A full-stack Generative AI Playground with modern deep-learning models, a FastAPI backend, Dockerized setup, and Jupyter support. *(Explore and experiment with LLMs and vision models)*
 - **Deep-Learning-LLM-Wounded-Treatment** – A practical deep learning project combining CNNs and LLM workflows for domain-specific medical applications.
 - **AML Detection Platform (NDA)** – Built a Dockerized, end-to-end AML system using unsupervised anomaly detection, PCA, and ensemble risk scoring with analyst-facing dashboards.
-
+- **Exo Proxy Fortress** – Designed and built a **secure, high-performance LLM load balancer and proxy layer** for distributed AI inference across Exo clusters and Ollama servers.  
+  Implements **intelligent request routing**, **model-aware load balancing**, **API key–based security**, **rate limiting**, and **application-level cluster management** without Kubernetes.  
+  Extended the system with **RAG (Retrieval-Augmented Generation)**, **vector search**, and **Redis-backed KV caching** to significantly reduce latency and inference cost.  
+  Fully Dockerized with FastAPI, Gunicorn, Redis, MongoDB, ChromaDB, and Nginx for production-ready deployment.
 ---
 
 ## 🛠️ Tech Stack
