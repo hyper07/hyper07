@@ -1,4 +1,4 @@
-# Hi, I'm Kibaek 👋
+# Hi, I'm Kibaek
 
 **AI & Full-Stack Engineering Leader · Founder · 15+ years shipping production systems**
 
